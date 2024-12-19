@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pradeepjaggumanthri/reactprofile/static/css/main.f855e6bc.css",
-    "main.js": "/Pradeepjaggumanthri/reactprofile/static/js/main.f93d748a.js",
-    "static/js/453.350b3a69.chunk.js": "/Pradeepjaggumanthri/reactprofile/static/js/453.350b3a69.chunk.js",
-    "static/media/logo.svg": "/Pradeepjaggumanthri/reactprofile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Pradeepjaggumanthri/reactprofile/index.html",
-    "main.f855e6bc.css.map": "/Pradeepjaggumanthri/reactprofile/static/css/main.f855e6bc.css.map",
-    "main.f93d748a.js.map": "/Pradeepjaggumanthri/reactprofile/static/js/main.f93d748a.js.map",
-    "453.350b3a69.chunk.js.map": "/Pradeepjaggumanthri/reactprofile/static/js/453.350b3a69.chunk.js.map"
+    "main.css": "/Pradeepjaggumanthri/reactprofile/home/static/css/main.f855e6bc.css",
+    "main.js": "/Pradeepjaggumanthri/reactprofile/home/static/js/main.c923903e.js",
+    "static/js/453.350b3a69.chunk.js": "/Pradeepjaggumanthri/reactprofile/home/static/js/453.350b3a69.chunk.js",
+    "static/media/logo.svg": "/Pradeepjaggumanthri/reactprofile/home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pradeepjaggumanthri/reactprofile/home/index.html",
+    "main.f855e6bc.css.map": "/Pradeepjaggumanthri/reactprofile/home/static/css/main.f855e6bc.css.map",
+    "main.c923903e.js.map": "/Pradeepjaggumanthri/reactprofile/home/static/js/main.c923903e.js.map",
+    "453.350b3a69.chunk.js.map": "/Pradeepjaggumanthri/reactprofile/home/static/js/453.350b3a69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f93d748a.js"
+    "static/js/main.c923903e.js"
   ]
 }
